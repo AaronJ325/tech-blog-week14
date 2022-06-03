@@ -1,0 +1,1 @@
+This week's task was to create a blog site where developers can post and comment about each other.
